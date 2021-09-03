@@ -38,7 +38,7 @@
                 </div>
             @endif
 
-            <example-component></example-component>
+            <welcome-component></welcome-component>
         </div>
     </body>
 </html>
